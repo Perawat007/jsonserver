@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "balance": 90,
+      "bet": 0,
+      "win": 1,
+      "tiles": [
+        "index4"
+      ],
+      "winline": 3,
+      "id": 1
+    },
+    {
+      "balance": 200,
+      "bet": 20,
+      "win": 3,
+      "tiles": [
+        "index6",
+        "index2"
+      ],
+      "winline": 1,
+      "id": 2
+    },
+    {
+      "balance": 100.5,
+      "bet": 10,
+      "win": 10,
+      "tiles": [
+        "index1",
+        "index2"
+      ],
+      "winline": 1,
+      "id": 3
+    }
+  ]
+}
